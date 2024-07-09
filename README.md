@@ -1,6 +1,6 @@
 # MyLeetcode_Solutions_Java
 
-Welcome to MyLeetcode_Solutions_Java! This repository contains my personal solutions to various coding problems from [LeetCode](https://leetcode.com/) implemented in Java. The solutions cover a wide range of topics and difficulty levels, from easy to hard. Each solution is thoroughly tested and documented to help you understand the approach and logic used to solve the problem.
+Welcome to MyLeetcode_Solutions_Java! This repository contains my personal solutions to various coding problems from [LeetCode](https://leetcode.com/u/magdiedwar47/) implemented in Java. The solutions cover a wide range of topics and difficulty levels, from easy to hard. Each solution is thoroughly tested and documented to help you understand the approach and logic used to solve the problem.
 
 ## Repository Structure
 
